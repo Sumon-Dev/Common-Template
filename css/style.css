@@ -1,0 +1,37 @@
+/*======= All Common CSS Start =======*/
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1, h2 h3 h4 h5 h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+ul,ol{
+    list-style-type: none;
+}
+/*======= All Common CSS End =======*/
+
+
+
+/*======= Header Common Start   =======*/
+nav{
+    background: red;
+}
+nav ul li{
+    margin-left: 10px;
+}
+nav ul li a{
+    color: #fff;
+}
+nav ul li a:hover{
+    color: orange;
+}
+/*======= Header Common CSS End =======*/
